@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Šimon Tvrdý");
+﻿Console.WriteLine("Šimon Tadeáš Tvrdý");
